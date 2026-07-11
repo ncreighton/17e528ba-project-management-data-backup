@@ -1,2 +1,28 @@
-# 17e528ba-project-management-data-backup
-Every project management professionals needs this — most just don't know it yet.  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Project Management Data Backup And Disaster Recovery — fully configured and ready t
+# Project Management Data Backup and Disaster Recovery N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu7sL8v55wg9JKgUccZJ3m)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu7sL8v55wg9JKgUccZJ3m)
+
